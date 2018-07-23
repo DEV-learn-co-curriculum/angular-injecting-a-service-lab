@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Create a $timeout that updates the View
+- To create a $timeout that updates the View
 
 ## Instructions
 
