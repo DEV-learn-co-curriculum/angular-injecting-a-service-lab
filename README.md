@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Create a $timeout that updates the View
+- To create a $timeout that updates the View
 
 ## Instructions
 
@@ -29,3 +29,5 @@ Now, inside our controller, set `$scope.name` to your name. We previously touche
 Below that, set a $timeout for 5 seconds. Inside the function, set `$scope.name` to something else.
 
 Open up `index.html` and wait 5 seconds - you'll see the view get updated with our new name!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-injecting-a-service-lab'>Angular Injecting A Service Lab</a> on Learn.co and start learning to code for free.</p>
